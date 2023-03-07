@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Без имени.png</file>
+        <file>Img2.png</file>
+    </qresource>
+</RCC>
